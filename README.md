@@ -9,11 +9,11 @@
   
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+  `git clone https://github.com/ankitpasayat/angular-homes-app.git`
 
 - Once the code has been downloaded
 
-  `cd homes-app`
+  `cd angular-homes-app`
 
 - Install the depencies
 
